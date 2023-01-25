@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/helppmsoauth/static/css/main.07acf60d.chunk.css",
-    "main.js": "/helppmsoauth/static/js/main.69b52535.chunk.js",
-    "main.js.map": "/helppmsoauth/static/js/main.69b52535.chunk.js.map",
+    "main.js": "/helppmsoauth/static/js/main.6ffd98cb.chunk.js",
+    "main.js.map": "/helppmsoauth/static/js/main.6ffd98cb.chunk.js.map",
     "runtime-main.js": "/helppmsoauth/static/js/runtime-main.574e096f.js",
     "runtime-main.js.map": "/helppmsoauth/static/js/runtime-main.574e096f.js.map",
     "static/css/2.c4e73993.chunk.css": "/helppmsoauth/static/css/2.c4e73993.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.c4e73993.chunk.css",
     "static/js/2.d5640cea.chunk.js",
     "static/css/main.07acf60d.chunk.css",
-    "static/js/main.69b52535.chunk.js"
+    "static/js/main.6ffd98cb.chunk.js"
   ]
 }
